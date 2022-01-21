@@ -1,0 +1,2 @@
+rootProject.name = "RoomDB_Salmaa_30"
+include ':app'
